@@ -1,3 +1,8 @@
+
+# DEPRECATED
+
+This repository has been deprecated and migrated to https://github.com/autodesk-platform-services/aps-acc.sheet.manager
+
 # ACC Sheets Export & Import Sample
 
 [![Node.js](https://img.shields.io/badge/Node.js-12.19-blue.svg)](https://nodejs.org/)
